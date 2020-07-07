@@ -1,7 +1,6 @@
 package usage.fastjson.jsonarray;
 
 import com.alibaba.fastjson.JSON;
-import javafx.scene.control.cell.CheckBoxListCell;
 import junit.framework.TestCase;
 
 public class TestSimpleJSON extends TestCase {

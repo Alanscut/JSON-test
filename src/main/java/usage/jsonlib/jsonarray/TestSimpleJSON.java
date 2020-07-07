@@ -1,9 +1,7 @@
 package usage.jsonlib.jsonarray;
 
 import junit.framework.TestCase;
-import net.sf.json.JSON;
 import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
 import net.sf.json.JSONSerializer;
 
 public class TestSimpleJSON extends TestCase {
